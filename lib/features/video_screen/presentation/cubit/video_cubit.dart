@@ -1,5 +1,5 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:watchit_dash/features/video_viewer/data/repo/video_repo.dart';
+import 'package:watchit_dash/features/video_screen/data/repo/video_repo.dart';
 import 'video_state.dart';
 
 class VideoCubit extends Cubit<VideoState> {

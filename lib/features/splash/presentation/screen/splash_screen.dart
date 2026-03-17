@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:watchit_dash/core/constants/app_colors.dart';
-import 'package:watchit_dash/features/home/presentation/screens/home_screen.dart';
+import 'package:watchit_dash/features/video_screen/presentation/screens/video_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});

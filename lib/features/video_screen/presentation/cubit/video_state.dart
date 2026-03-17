@@ -1,4 +1,4 @@
-import 'package:watchit_dash/features/video_viewer/data/model/video_model.dart';
+import 'package:watchit_dash/features/video_screen/data/model/video_model.dart';
 
 
 abstract class VideoState {}
